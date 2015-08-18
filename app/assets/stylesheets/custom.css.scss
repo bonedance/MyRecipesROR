@@ -40,3 +40,23 @@ footer {
   border-top: 1px solid AliceBlue;
   padding-top: 10px;
 }
+
+.chef_info {
+  margin-top: 10px;
+}
+
+.gravatar {
+  border-radius: 50%;
+}
+
+input, textarea, select, .uniditabl-input {
+  display: block;
+  margin-left: 50px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  width: 90%;
+}
+
+input {
+  height: auto !important;
+}
