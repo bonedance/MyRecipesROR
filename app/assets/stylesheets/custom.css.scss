@@ -14,6 +14,8 @@
 }
 
 .nav-item {
+  list-style-type: none;
+  padding-left: 20px;
   margin: 20px;
   float:left;
 }
@@ -70,4 +72,8 @@ span.picture {
 
 .show_recipe {
   margin: 10px;
+}
+
+ul {
+  list-style-type: none;
 }
