@@ -59,6 +59,10 @@ input, textarea, select, .uniditabl-input {
   width: 90%;
 }
 
+.input_checkbox input {
+  width: auto !important;
+}
+
 input {
   height: auto !important;
 }
@@ -74,6 +78,4 @@ span.picture {
   margin: 10px;
 }
 
-ul {
-  list-style-type: none;
-}
+
